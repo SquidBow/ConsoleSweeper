@@ -1,0 +1,14 @@
+C:\Other Programs\Programing\Projects\RiderProjects\ConsoleSweeper\ConsoleSweeper\bin\Debug\net9.0\ConsoleSweeper.exe
+C:\Other Programs\Programing\Projects\RiderProjects\ConsoleSweeper\ConsoleSweeper\bin\Debug\net9.0\ConsoleSweeper.deps.json
+C:\Other Programs\Programing\Projects\RiderProjects\ConsoleSweeper\ConsoleSweeper\bin\Debug\net9.0\ConsoleSweeper.runtimeconfig.json
+C:\Other Programs\Programing\Projects\RiderProjects\ConsoleSweeper\ConsoleSweeper\bin\Debug\net9.0\ConsoleSweeper.dll
+C:\Other Programs\Programing\Projects\RiderProjects\ConsoleSweeper\ConsoleSweeper\bin\Debug\net9.0\ConsoleSweeper.pdb
+C:\Other Programs\Programing\Projects\RiderProjects\ConsoleSweeper\ConsoleSweeper\obj\Debug\net9.0\ConsoleSweeper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Other Programs\Programing\Projects\RiderProjects\ConsoleSweeper\ConsoleSweeper\obj\Debug\net9.0\ConsoleSweeper.AssemblyInfoInputs.cache
+C:\Other Programs\Programing\Projects\RiderProjects\ConsoleSweeper\ConsoleSweeper\obj\Debug\net9.0\ConsoleSweeper.AssemblyInfo.cs
+C:\Other Programs\Programing\Projects\RiderProjects\ConsoleSweeper\ConsoleSweeper\obj\Debug\net9.0\ConsoleSweeper.csproj.CoreCompileInputs.cache
+C:\Other Programs\Programing\Projects\RiderProjects\ConsoleSweeper\ConsoleSweeper\obj\Debug\net9.0\ConsoleSweeper.dll
+C:\Other Programs\Programing\Projects\RiderProjects\ConsoleSweeper\ConsoleSweeper\obj\Debug\net9.0\refint\ConsoleSweeper.dll
+C:\Other Programs\Programing\Projects\RiderProjects\ConsoleSweeper\ConsoleSweeper\obj\Debug\net9.0\ConsoleSweeper.pdb
+C:\Other Programs\Programing\Projects\RiderProjects\ConsoleSweeper\ConsoleSweeper\obj\Debug\net9.0\ConsoleSweeper.genruntimeconfig.cache
+C:\Other Programs\Programing\Projects\RiderProjects\ConsoleSweeper\ConsoleSweeper\obj\Debug\net9.0\ref\ConsoleSweeper.dll
