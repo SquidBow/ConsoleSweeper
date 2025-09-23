@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleSweeper")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29fb9ec87959542206caf076c27193f867de0244")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleSweeper")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleSweeper")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

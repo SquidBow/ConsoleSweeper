@@ -12,3 +12,4 @@ C:\Other Programs\Programing\Projects\RiderProjects\ConsoleSweeper\ConsoleSweepe
 C:\Other Programs\Programing\Projects\RiderProjects\ConsoleSweeper\ConsoleSweeper\obj\Debug\net9.0\ConsoleSweeper.pdb
 C:\Other Programs\Programing\Projects\RiderProjects\ConsoleSweeper\ConsoleSweeper\obj\Debug\net9.0\ConsoleSweeper.genruntimeconfig.cache
 C:\Other Programs\Programing\Projects\RiderProjects\ConsoleSweeper\ConsoleSweeper\obj\Debug\net9.0\ref\ConsoleSweeper.dll
+C:\Other Programs\Programing\Projects\RiderProjects\ConsoleSweeper\ConsoleSweeper\obj\Debug\net9.0\ConsoleSweeper.sourcelink.json
